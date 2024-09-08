@@ -1,4 +1,4 @@
-⚽ Busca de Craques: Encontre seu Atleta Favorito!
+⚽ Busca de Craques: Encontre seu Atleta Favorito! - Imersão Dev com Google Gemini
 
 **O que é isso?**
 
